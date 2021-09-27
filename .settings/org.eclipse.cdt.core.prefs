@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.ti.ccstudio.buildDefinitions.MSP432.Debug.580373207/MSP432_BOOSTXL_LIB/delimiter=;
+environment/project/com.ti.ccstudio.buildDefinitions.MSP432.Debug.580373207/MSP432_BOOSTXL_LIB/operation=append
+environment/project/com.ti.ccstudio.buildDefinitions.MSP432.Debug.580373207/MSP432_BOOSTXL_LIB/value=C\:\\Users\\pschaumont\\gitlp\\msp432_boostxl_lib\\msp432_boostxl_lib
+environment/project/com.ti.ccstudio.buildDefinitions.MSP432.Debug.580373207/append=true
+environment/project/com.ti.ccstudio.buildDefinitions.MSP432.Debug.580373207/appendContributed=true
